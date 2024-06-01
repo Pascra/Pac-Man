@@ -9,13 +9,15 @@ description: "This is a tribute to NAMCO's original Pac-Man made by two students
 
     **FrameStudios**
     
-    ![311434078-daa98d65-4a0c-4514-ab7a-b9398ffaed9a](https://github.com/paolo2kk/BubbleBobble-PatoProductions/assets/121867499/412ca921-b64c-43e1-b6cc-ce629418875d)
+![image](https://github.com/Pascra/Pac-Man/assets/160216424/e9302dc3-b621-4362-80dd-b6a1fb5e0067)
+
 
     **Arnau Pascual Delgado**:                   Design / QA / Code
     
     [Github Profile](https://github.com/Pascra)
     
-    ![god](![image](https://github.com/Pascra/Pac-Man/assets/160216424/cfacf36a-9c39-47be-9a9b-a0f503e4585e)
+   ![image](https://github.com/Pascra/Pac-Man/assets/160216424/85b0a63f-80fc-460c-8c22-43d5377a4686)
+
 )
 
 
@@ -23,5 +25,6 @@ description: "This is a tribute to NAMCO's original Pac-Man made by two students
     
     [Github Profile](https://github.com/Roster247)
 
-    ![Lewis_MTR](![image](https://github.com/Pascra/Pac-Man/assets/160216424/4438d267-6266-47e8-8d7f-de2d650da3ae)
+   ![image](https://github.com/Pascra/Pac-Man/assets/160216424/297a4573-6d18-4ade-b617-62d2818197d9)
+
 )
