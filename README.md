@@ -33,6 +33,8 @@ Special controles:
 2 (Second level)
 F4 (God mode)
 
+## Features implemented
+
 _1.00 version features:_
 
 * Make github web page
