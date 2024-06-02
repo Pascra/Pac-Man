@@ -31,7 +31,11 @@ Down Arrow (down)
 
 Special controls:
 2 (Second level)
+F1 (colliders)
+F2 (Win)
+F3 (Lose)
 F4 (God mode)
+F5 (Spawn items randomly)
 
 ~~~~~~~~~~~~~~~
 
