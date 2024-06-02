@@ -57,10 +57,9 @@ _Roger Miralles and Github account_
 
 
 
-### For more information see our wiki page (Enlace aquí)
-### Download the last version of the game (Enlace aquí)
-### Check our Github repository (Enlace aquí)
-
+### For more information see our wiki page [HERE](https://github.com/Pascra/Game-Analysis-Pac-Man/wiki)
+### Download the last version of the game [HERE]()
+### Check our Github repository [HERE](https://github.com/Pascra/Pac-Man)
 
 
 
