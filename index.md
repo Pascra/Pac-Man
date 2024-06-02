@@ -1,30 +1,64 @@
-description: "This is a tribute to NAMCO's original Pac-Man made by two students"
+![Imagen de WhatsApp 2024-04-21 a las 17 56 34_8337d2a8](https://github.com/Pascra/Pac-Man/assets/160216424/ef9e5cbf-7fd0-4f13-bc90-53c4d20a6e49)
+
+## Our project 
+
+We are working on a project to recreate the 1980 arcade game "Pac-Man" originally developed and published by Namco, as a tribute to the classic. This initiative is undertaken by two students from CITM - UPC in Terrassa, Spain.
+
+## About the game
+
+Pac-Man released in 1980 by Namco, is a classic arcade game where players control Pac-Man, a yellow character who must eat all the dots in a maze while avoiding four ghosts: Blinky, Pinky, Inky, and Clyde. Eating Power Pellets makes the ghosts temporarily edible. 
+
+The goal is to clear levels by eating all the dots, with the ghosts becoming faster and more aggressive as the game progresses. 
+
+"Pac-Man" is famous for its addictive gameplay and iconic sound effects.
+
+## Gameplay
+
+(aquí va el video)
+
+## Controls
+~~~~~~~~~~~~~~~
+
+Usual controls:
+SPACE (start)
+esc (stop)
+Right Arrow (right)
+Left Arrow (right)
+Up Arrow (up)
+Down Arrow (down)
+
+Special modes:
+(F...)
+
+~~~~~~~~~~~~~~~
+
+# FrameStudios - Our team
+
+![311460330-97f5f264-2e8a-4914-b2f5-f7a4da667a82](https://github.com/Pascra/Pac-Man/assets/160216424/10c01ef0-be32-4d84-a5b6-701ed7fa1327)
+
+## Team members
+
+_Arnau Pascual and Github account_
+
+* Design / Code / Management
+* [Github account](https://github.com/martimab)
+* ![image](https://github.com/Pascra/Pac-Man/assets/160216424/46251066-7879-478c-afe9-56c7ef9d027b)
 
 
-  - **Introduction**
-    |
-   "Pac-Man" is a 1980 arcade video game where you control a yellow, round character that eats dots and avoids ghosts in a maze, aiming to achieve the highest score possible.
-  - **Members**
-    |
+_Roger Miralles and Github account_
 
-    **FrameStudios**
-    
-![image](https://github.com/Pascra/Pac-Man/assets/160216424/e9302dc3-b621-4362-80dd-b6a1fb5e0067)
+* Art / Code / QA
+* [Github account](https://github.com/Wilhelman)
+* ![image](https://github.com/Pascra/Pac-Man/assets/160216424/f4575d55-e701-4ef9-8ec8-652da0fecf6a)
 
 
-    **Arnau Pascual Delgado**:                   Design / QA / Code
-    
-  [Github Profile](https://github.com/Pascra)
-    
-   ![image](https://github.com/Pascra/Pac-Man/assets/160216424/85b0a63f-80fc-460c-8c22-43d5377a4686)
-
-)
 
 
-    **Roger Miralles Pellicero**:                             Art / Project Management / Code
-    
-  [Github Profile](https://github.com/Roster247)
+### For more information see our wiki page (Enlace aquí)
+### Download the last version of the game (Enlace aquí)
+### Check our Github repository (Enlace aquí)
 
-   ![image](https://github.com/Pascra/Pac-Man/assets/160216424/297a4573-6d18-4ade-b617-62d2818197d9)
 
-)
+
+
+#### _Tribute by FrameStudios_
