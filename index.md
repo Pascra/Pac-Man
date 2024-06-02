@@ -27,8 +27,7 @@ Left Arrow (right)
 Up Arrow (up)
 Down Arrow (down)
 
-Special controles:
-
+Special controls:
 2 (Second level)
 F4 (God mode)
 
