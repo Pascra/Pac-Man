@@ -44,14 +44,16 @@ _Arnau Pascual and Github account_
 
 * Design / Code / Management
 * [Github account](https://github.com/Pascra)
-* ![image](https://github.com/Pascra/Pac-Man/assets/160216424/46251066-7879-478c-afe9-56c7ef9d027b)
+  
+ ![image](https://github.com/Pascra/Pac-Man/assets/160216424/46251066-7879-478c-afe9-56c7ef9d027b)
 
 
 _Roger Miralles and Github account_
 
 * Art / Code / QA
 * [Github account](https://github.com/Roster247)
-* ![image](https://github.com/Pascra/Pac-Man/assets/160216424/f4575d55-e701-4ef9-8ec8-652da0fecf6a)
+  
+ ![image](https://github.com/Pascra/Pac-Man/assets/160216424/f4575d55-e701-4ef9-8ec8-652da0fecf6a)
 
 
 
