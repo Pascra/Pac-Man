@@ -19,6 +19,7 @@ Download the zip file and unzip it. Open the folder, execute the .exe and enjoy!
 _IMPORTANT: do not modify, change or add any folder or file as you might not be able to execute the game._
 
 ## Controls
+~~~~~~~~~~~~~~~
 
 Usual controls:
 SPACE (start)
@@ -28,10 +29,11 @@ Left Arrow (right)
 Up Arrow (up)
 Down Arrow (down)
 
-Special controles:
-
+Special controls:
 2 (Second level)
 F4 (God mode)
+
+~~~~~~~~~~~~~~~
 
 ## Features implemented
 
