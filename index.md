@@ -14,7 +14,7 @@ The goal is to clear levels by eating all the dots, with the ghosts becoming fas
 
 ## Gameplay
 
-(aquí va el video)
+<iframe width="740" height="590" src="https://youtu.be/bNXHK0QfDpg" frameborder="0" allowfullscreen></iframe>
 
 ## Controls
 ~~~~~~~~~~~~~~~
