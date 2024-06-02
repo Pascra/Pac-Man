@@ -6,6 +6,8 @@ We are working on a project to recreate the 1980 arcade game "Pac-Man" originall
 
 ## About the game
 
+![gif](https://github.com/Pascra/Pac-Man/assets/160216424/9792e694-4cad-4306-926d-063d0649d70c)
+
 Pac-Man released in 1980 by Namco, is a classic arcade game where players control Pac-Man, a yellow character who must eat all the dots in a maze while avoiding four ghosts: Blinky, Pinky, Inky, and Clyde. Eating Power Pellets makes the ghosts temporarily edible. 
 
 The goal is to clear levels by eating all the dots, with the ghosts becoming faster and more aggressive as the game progresses. 
